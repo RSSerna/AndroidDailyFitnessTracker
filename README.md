@@ -1,2 +1,6 @@
-Application Created Using Android Java.
-From Starting Android Course
+#AndroidDailyFitnessTracker
+
+Application Created Using Java for Android Development.
+
+Lab from Get Started with Android App Development
+App for simple Tracking Fitness.
